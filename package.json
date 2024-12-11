@@ -1,0 +1,11 @@
+{
+  "name": "ua-1302.-js-fundamentals",
+  "version": "1.0.0",
+  "description": "UA-1302. JS Fundamentals",
+  "main": "topic10.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
